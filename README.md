@@ -16,6 +16,13 @@ I configured a workspace with the intent of mapping geo data in Azure Sentinel
 
 I configured azure Sentinel (Microsoft’s SIEM) workbook to display global attack data (RDP brute force) on world map according to physical location and magnitude of attacks.
 
+<br /> 
+
+ <p align="center">
+  Mind map of honet pot lab: <br/>
+ <img src="https://i.imgur.com/aUTwlNe.png" height="80%" width="80%" al="honey pot lab"/>
+ <br /> 
+ <br /> 
 
 <h2>Software tools used</h2>
 
