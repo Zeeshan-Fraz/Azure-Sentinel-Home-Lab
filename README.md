@@ -3,8 +3,7 @@
  ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
 <h2>Description</h2>
-This Project blah blah blah blah blahblahblahblah blah blah blah blah blah blah blah blah
-blah blahblahblahblah blah blah
+The purpose of this project is to create a honey pot virtual machine with an open port connection, to allow threat actors to try and RDP connect to the machine, whilst being able to capture sign in logs using a custom created powershell script. And to plot the geogrphical data onto a world map.
 <br />
 
 
@@ -18,7 +17,6 @@ blah blahblahblahblah blah blah
 <h2>Environments Used </h2>
 
 - <b>Windows 10</b> (21H2)
-- 
 
 <h2>Program walk-through:</h2>
 
