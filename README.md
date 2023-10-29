@@ -1,4 +1,4 @@
-<h1>Azure Sentinel Home Lab</h1>
+<h1>Azure Sentinel SIEM Honeypot Lab</h1>
 
  ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
