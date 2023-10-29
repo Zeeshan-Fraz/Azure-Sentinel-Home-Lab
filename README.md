@@ -8,14 +8,17 @@ blah blahblahblahblah blah blah
 <br />
 
 
-<h2>Languages and Utilities Used</h2>
+<h2>Software tools used</h2>
 
-- <b>PowerShell</b> 
-- <b>Diskpart</b>
+- <b>Azure Free Subscription</b> 
+- <b>Remote Desktop Connection</b>
+- <b>Powershell</b>
+- <b>IP Geolocation API</b>
 
 <h2>Environments Used </h2>
 
 - <b>Windows 10</b> (21H2)
+- 
 
 <h2>Program walk-through:</h2>
 
