@@ -47,7 +47,7 @@ This project will be broken down into sections for setting up each part of the S
 <br /> 
 
 1. [Creating a resource group in Azure](https://github.com/Zeeshan-Fraz/Create-a-resource-group-in-azure)
-2. [Creating a virtual machine (windows 10) ()
+2. [Creating a virtual machine (windows 10)](https://github.com/Zeeshan-Fraz/Creating-a-virtual-machine-windows-10-) 
 
 
 <p align="center">
