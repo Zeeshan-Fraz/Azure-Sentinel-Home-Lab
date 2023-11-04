@@ -68,6 +68,10 @@ By default, there will be no resource groups and we will have to create one for 
 Click on the create resource group button and you will be presented with the project details and resource details field that need to be filled in.
 NOTE: the default subscription will always be Azure subscription 1 with the free Azure sign up
 
+<p align="center">
+<img src="https://i.imgur.com/X6ThREN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<br /> 
 
 </p>
 
