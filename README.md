@@ -42,6 +42,10 @@ I configured azure Sentinel (Microsoft’s SIEM) workbook to display global atta
 
 <h2>Program walk-through:</h2>
 
+<h2> Creating a resource group in Azure:</h2>
+
+  - Creating a resource group in Azure
+
 <p align="center">
 Created Resouce Group in Azure: <br/>
 <img src="https://i.imgur.com/yrwFL7g.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
