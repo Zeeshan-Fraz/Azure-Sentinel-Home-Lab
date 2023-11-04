@@ -20,7 +20,7 @@ I configured azure Sentinel (Microsoft’s SIEM) workbook to display global atta
 
  <p align="center">
   Mind map of honet pot lab: <br/>
- <img src="https://i.imgur.com/aUTwlNe.png" height="80%" width="80%" al="honey pot lab"/>
+ <img src="https://i.imgur.com/qeH47gn.png" height="80%" width="80%" al="honey pot lab"/>
  <br /> 
  <br /> 
 
