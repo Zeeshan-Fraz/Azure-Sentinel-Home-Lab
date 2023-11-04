@@ -95,6 +95,19 @@ NOTE: you will see a lot of these dialogue boxes appear to show the deployment s
 <img src="https://i.imgur.com/Ijsi3vM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 <br />
+<br />
+<br />
+<br />
+<br />
+
+<p align="center">
+Created Virtual Machine in Azure: <br/>
+<img src="https://i.imgur.com/VDQdwI1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+
+On the create a resource option, click this and then in the sub menu click create the create button next to the virtal machine heading
+ 
+<br />
 
 </p>
 
