@@ -88,6 +88,14 @@ Then click the review + create button and your new resource group should be crea
 
 <br /> 
 
+You should see a pop up box in the top right hand corner of the Azure portal to show if the resource group has been successfully created.
+NOTE: you will see a lot of these dialogue boxes appear to show the deployment status of resources and alerts in the Azure portal.
+
+<p align="center">
+<img src="https://i.imgur.com/Ijsi3vM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<br />
+
 </p>
 
 <!--
