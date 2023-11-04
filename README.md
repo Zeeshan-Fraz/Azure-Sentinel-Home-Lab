@@ -40,9 +40,13 @@ I configured azure Sentinel (Microsoft’s SIEM) workbook to display global atta
 
 - <b>Windows 10</b> (21H2)
 
+<br />
+
+This project will be broken down into sections for setting up each part of the SIEM Honeypot lab and the steps that were taken to acheiving the goal for this lab
+
 <br /> 
 
-  - [Creating a resource group in Azure](https://github.com/Zeeshan-Fraz/Create-a-resource-group-in-azure)
+1. [Creating a resource group in Azure](https://github.com/Zeeshan-Fraz/Create-a-resource-group-in-azure)
 
 
 <p align="center">
