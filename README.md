@@ -44,10 +44,30 @@ I configured azure Sentinel (Microsoft’s SIEM) workbook to display global atta
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Created Resouce Group in Azure: <br/>
+<img src="https://i.imgur.com/yrwFL7g.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
+
+You may be asking why should I create a resource group first and why not the virtual machine right away.
+This is because in Azure we will be creating a lot of resources and from my experience it is easier to setup a new resource group as this will make it a lot easier later in this lab.
+
+To create a new resource group, click on the resource groups button
+
+<br />
+
+<p align="center">
+<img src="https://i.imgur.com/hFqBqXC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+Click on the resource group button to create your resource group
+
+By default, there will be no resource groups and we will have to create one for this lab.
+
+<br />
+
+Click on the create resource group button and you will be presented with the project details and resource details field that need to be filled in.
+NOTE: the default subscription will always be Azure subscription 1 with the free Azure sign up
+
 
 </p>
 
