@@ -73,6 +73,13 @@ NOTE: the default subscription will always be Azure subscription 1 with the free
 
 <br /> 
 
+As I will be using my virtual machine for a honeypot scenario, I have called mine Honeypot-Lab, but you can name your resource group to any name as you wish. anything of your choice.
+
+<p align="center">
+<img src="https://i.imgur.com/ebTE1a1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<br /> 
+
 </p>
 
 <!--
