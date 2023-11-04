@@ -80,6 +80,14 @@ As I will be using my virtual machine for a honeypot scenario, I have called min
 
 <br /> 
 
+NOTE: in the region settings, by default it will be set to (US) EAST US, this is the region where we want to deploy our resource group to a region where the data centre is situated. I set mine to (Europe) UK South as this was the recommended option for myself for the region, I am in.
+Then click the review + create button and your new resource group should be created:
+
+<p align="center">
+<img src="https://i.imgur.com/lv1mAgM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<br /> 
+
 </p>
 
 <!--
