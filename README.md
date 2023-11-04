@@ -44,7 +44,7 @@ I configured azure Sentinel (Microsoft’s SIEM) workbook to display global atta
 
 <h2> Creating a resource group in Azure:</h2>
 
-  - Creating a resource group in Azure
+  - [Creating a resource group in Azure] 
 
 <p align="center">
 Created Resouce Group in Azure: <br/>
