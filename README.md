@@ -99,9 +99,7 @@ NOTE: you will see a lot of these dialogue boxes appear to show the deployment s
 
 <br />
 <br />
-<br />
-<br />
-<br />
+
 
 <p align="center">
 Created Virtual Machine in Azure: <br/>
