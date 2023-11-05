@@ -49,13 +49,6 @@ This project will be broken down into sections for setting up each part of the S
 1. [Creating a resource group in Azure](https://github.com/Zeeshan-Fraz/Create-a-resource-group-in-azure)
 2. [Creating a virtual machine (windows 10)](https://github.com/Zeeshan-Fraz/Creating-a-virtual-machine-windows-10-) 
 
-
-<p align="center">
-Created Virtual Machine in Azure: <br/>
-<img src="https://i.imgur.com/VDQdwI1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-
-On the create a resource option, click this and then in the sub menu click create the create button next to the virtal machine heading
  
 <br />
 
